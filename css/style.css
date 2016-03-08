@@ -1,0 +1,32 @@
+.panel-primary {
+    border-color: #232C51;
+}
+
+p{
+    font-size: 1.2em;
+}
+
+xdiv {
+    border: thin solid black;
+}
+
+.jumbotron{
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+
+.panel-body{
+    color:white;
+    font-size:18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+@media screen and (max-width: 520px) {
+
+    .jumbotron > div > p > img {
+        width: 280px;
+    }
+
+}
+
