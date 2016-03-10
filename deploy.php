@@ -6,6 +6,7 @@
  * Time: 12:28 PM
  */
 
+print_r($_POST);
 print_r($_REQUEST);
 
 file_put_contents("log.txt",print_r($_REQUEST,true));
