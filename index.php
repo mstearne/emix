@@ -173,6 +173,5 @@
 
 </script>
 
-<p>Update to website</p>
 </body>
 </html>
