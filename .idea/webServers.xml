@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="556b95cf-bb70-40b3-b1f9-a5fa78535e0f" name="Entermix.com Server" url="http://entermix.com">
+        <fileTransfer host="entermix.com" port="22" rootFolder="/usr/home/ment2/public_html/entermix/entermix" accessType="SFTP" password="dfdedfd9dfcfdfdedfc7dfda" username="ment2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
