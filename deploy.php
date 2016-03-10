@@ -15,5 +15,13 @@ $commit=json_decode($_REQUEST['payload']);
 
 file_put_contents("log.txt",print_r($commit,true));
 
+if($commit->ref=="refs/heads/master"){
 
+    file_put_contents("log.txt","we should do a pull");
+
+
+}else{
+    file_put_contents("log.txt","no pull");
+
+}
 ?>
