@@ -13,7 +13,7 @@ file_put_contents("log.txt",print_r($_REQUEST,true));
 
 $commit=json_decode($_REQUEST['payload']);
 
-file_put_contents("log.txt",$commit);
+file_put_contents("log.txt",print_r($commit,true));
 
 
 ?>
