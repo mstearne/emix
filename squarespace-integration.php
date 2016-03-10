@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>entermix development</title>
+    <title>Squarespace Integration NYC, PHP Laravel Development NYC | entermix development</title>
     <!-- Latest compiled and minified CSS & JS -->
 
     <script src="js/jquery.min.js"></script>

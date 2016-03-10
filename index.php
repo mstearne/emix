@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>entermix development</title>
+    <title>Nodejs Development NYC, PHP Laravel Development NYC Javascript Development NYC | entermix development</title>
     <!-- Latest compiled and minified CSS & JS -->
 
     <script src="js/jquery.min.js"></script>
