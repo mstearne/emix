@@ -18,7 +18,10 @@ file_put_contents("log.txt",print_r($commit,true));
 if($commit->ref=="refs/heads/master"){
 
     file_put_contents("log.txt","we should do a pull");
+mail("mstearne@gmail.com","Git PULL happened on ".$commit->repository->name,print_r($commit,true));
 
+
+    system("/usr/local/bin/git pull");
 
 }else{
     file_put_contents("log.txt","no pull");
