@@ -27,5 +27,5 @@ mail("mstearne@gmail.com","Git PULL happened on ".$commit->repository->name,prin
     file_put_contents("log.txt","no pull");
 
 }
-// next change
+// next change now
 ?>
