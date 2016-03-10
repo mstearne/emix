@@ -6,6 +6,17 @@ p{
     font-size: 1.2em;
 }
 
+a {
+    color: #fff;;
+}
+a:hover {
+    color: #fff;;
+}
+
+h1 {
+    font-size: 3em;
+}
+
 #contactDiv {
     cursor: pointer;
     font-size: 10px;

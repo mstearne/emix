@@ -7,7 +7,7 @@
 
     <script src="js/jquery.min.js"></script>
     <link rel="stylesheet" media="screen" href="css/bootstrap.css">
-            <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/style.css">
     <script src="js/bootstrap.min.js"></script>
 </head>
@@ -16,11 +16,12 @@
 
 <div class="jumbotron" style="background-color: white">
     <div class="container text-center">
-        <p class="text-center"><a href="index.php"><img src="images/entermix-logo.png" alt=""></a><br>DEVELOPMENT</p>
+        <p class="text-center"><a href="index.php"><img src="images/entermix-logo.png" width="280" alt=""></a><br>DEVELOPMENT</p>
     </div>
 </div>
 
 <div class="container-fluid">
+    <h1 class="text-center">Squarespace Custom Integration</h1>
 
 
     <div class="row" style="background-color: #F4F4F4">
@@ -83,56 +84,7 @@
 
     <div class="row">
 
-        <!-- Carousel
-        ================================================== -->
-        <div id="myCarousel" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel" data-slide-to="1"></li>
-                <li data-target="#myCarousel" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner" role="listbox">
-                <div class="item active">
-                    <img class="first-slide" src="images/carousel/s1.jpg" alt="First slide">
-                    <div class="container">
-                        <div class="carousel-caption">
-                            <h2>Website and Custom Development</h2>
-                            <p>Custom development of websites and mobile applications</p>
-                            <!--                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <img class="second-slide" src="images/carousel/s2.jpg" alt="Second slide">
-                    <div class="container">
-                        <div class="carousel-caption">
-                            <h2>WordPress Development</h2>
-                            <p>Custom large scale and specialized WordPress development.</p>
-                            <!--                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <img class="third-slide" src="images/carousel/s3.jpg" alt="Third slide">
-                    <div class="container">
-                        <div class="carousel-caption">
-                            <h2>Squarespace Custom Integration</h2>
-                            <p>Add custom Squarespace features in PHP, Javascript, Node and more.</p>
-                                                    <p><a class="btn btn-lg btn-primary" href="squarespace-integration.php" role="button">Lear more</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div><!-- /.carousel -->
+
 
     </div>
     <div class="row">
