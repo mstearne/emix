@@ -148,7 +148,7 @@
 
 
 <footer class="text-center" style="padding-top: 50px; padding-bottom: 10px;">
-    &copy; <?php echo date("Y"); ?> Entermix Development, LLC - here's a change
+    &copy; <?php echo date("Y"); ?> Entermix Development, LLC
 
 </footer>
 <script>
