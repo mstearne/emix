@@ -63,7 +63,7 @@
         <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
             <div class="panel-body">
                 <p id="pd">Product Development </p>
-                <p>iPhone App Development </p>
+                <p>iOS App Development </p>
                 <p>Custom WordPress Development</p>
                 <p>Google Tag Manager Integration</p>
             </div>
